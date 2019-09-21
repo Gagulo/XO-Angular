@@ -8,3 +8,4 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## React tutorial game in Angular
 
+<img src="src/assets/img/XO.png" width="650" height="700">
